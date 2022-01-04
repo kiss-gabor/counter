@@ -1,0 +1,33 @@
+* {box-sizing: border-box; margin: 0; padding: 0;}
+
+body {
+    background-color: rgb(75, 75, 75);
+}
+
+main {
+    margin: 2rem auto;
+    max-width: 200px;
+    text-align: center;
+    background-color: rgba(255, 68, 0, 0.699);
+    box-shadow: 0px 0px 15px 20px rgba(0,0,0,0.5);
+}
+
+h2 {
+    margin: 2rem 0;
+}
+
+main button {
+    background-color: rgb(116, 86, 252);
+    margin-bottom: 2rem;
+    padding: 5px 10px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#save-btn {
+    background-color: rgb(250, 0, 0);
+}
+
+.peop {
+    text-align: left;
+}
